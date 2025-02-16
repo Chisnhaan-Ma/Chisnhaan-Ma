@@ -22,11 +22,6 @@ I'm a passionate **Embedded Engineer** specializing in **Digital IC Design** and
 
 ---  
 
-## 📌 **Projects & Contributions**  
-I work on various projects related to **digital circuit design, FPGA development, and embedded systems**.  
-Check out my repositories for **exciting work on RTL design, firmware development, and PCB prototyping**!  
-
----  
 
 ## 📫 **Let's Connect!**  
 📌 **LinkedIn**: [Ma Chí Nhân](https://www.linkedin.com/in/ch%C3%AD-nh%C3%A2n-m%C3%A3-a75529330/)  

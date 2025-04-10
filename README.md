@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Ma Chí Nhân**  
 
-🚀 **Embedded Engineer | Digital IC Design **  
+🚀 **Embedded System | Digital IC Design **  
 
 Currently, I'm a **third-year student** at **Ho Chi Minh City University of Technology (HCMUT)**, focusing on **RTL design, hardware verification, and embedded programming**.  
 
